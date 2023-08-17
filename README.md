@@ -1,1 +1,1 @@
-# youtube-downloader-CLI
+## Simple CLI to download **youtube** videos in the selected quality.
